@@ -1,0 +1,38 @@
+_repo: The-Outlaw-of-Torn_369
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: "The Outlaw of Torn is a historical novel by Edgar Rice Burroughs, originally\
+  \ published as a five-part serial in New Story Magazine from January to May 1914,\
+  \ and first published in book form by A. C. McClurg in 1927. It was Burroughs' second\
+  \ novel, his first being the science fiction work A Princess of Mars. His third\
+  \ was Tarzan of the Apes.\nThe Outlaw of Torn is one of only two historical novels\
+  \ Burroughs wrote. The other, I Am a Barbarian, set in the Rome of Caligula, was\
+  \ not published until 1967, seventeen years after his death.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '369'
+  wikidata: Q17061884
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Outlaws -- Fiction'
+- !lcsh 'Great Britain -- History -- Henry III, 1216-1272 -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: The Outlaw of Torn
+url: http://www.gutenberg.org/ebooks/369
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Outlaw_of_Torn
